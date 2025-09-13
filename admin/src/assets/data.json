@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "name": "Story Book",
+    "title": "Lorem is learning web development",
+    "price": 0,
+    "category": "free",
+    "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1716978938~exp=1716982538~hmac=58f9900efe30dfb21a2e11904f56a1a87f2dad21d8838faaf736b2b94ec57ee9&w=740"
+  },
+  {
+    "id": 2,
+    "name": "JavaScript Essentials",
+    "title": "Mastering JavaScript",
+    "price": 20,
+    "category": "programming",
+    "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1716978938~exp=1716982538~hmac=58f9900efe30dfb21a2e11904f56a1a87f2dad21d8838faaf736b2b94ec57ee9&w=740"
+  },
+  {
+    "id": 3,
+    "name": "Python for Data Science",
+    "title": "Data Science with Python",
+    "price": 30,
+    "category": "data science",
+    "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1716978938~exp=1716982538~hmac=58f9900efe30dfb21a2e11904f56a1a87f2dad21d8838faaf736b2b94ec57ee9&w=740"
+  },
+  {
+    "id": 4,
+    "name": "React Made Easy",
+    "title": "Building UI with React",
+    "price": 25,
+    "category": "programming",
+    "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1716978938~exp=1716982538~hmac=58f9900efe30dfb21a2e11904f56a1a87f2dad21d8838faaf736b2b94ec57ee9&w=740"
+  },
+  {
+    "id": 5,
+    "name": "CSS Mastery",
+    "title": "Advanced CSS Techniques",
+    "price": 15,
+    "category": "design",
+    "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1716978938~exp=1716982538~hmac=58f9900efe30dfb21a2e11904f56a1a87f2dad21d8838faaf736b2b94ec57ee9&w=740"
+  },
+  {
+    "id": 6,
+    "name": "HTML5 Guide",
+    "title": "Complete Guide to HTML5",
+    "price": 0,
+    "category": "free",
+    "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1716978938~exp=1716982538~hmac=58f9900efe30dfb21a2e11904f56a1a87f2dad21d8838faaf736b2b94ec57ee9&w=740"
+  },
+  {
+    "id": 7,
+    "name": "Machine Learning Basics",
+    "title": "Introduction to Machine Learning",
+    "price": 35,
+    "category": "data science",
+    "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1716978938~exp=1716982538~hmac=58f9900efe30dfb21a2e11904f56a1a87f2dad21d8838faaf736b2b94ec57ee9&w=740"
+  },
+  {
+    "id": 8,
+    "name": "Cloud Computing",
+    "title": "Understanding Cloud Computing",
+    "price": 0,
+    "category": "free",
+    "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1716978938~exp=1716982538~hmac=58f9900efe30dfb21a2e11904f56a1a87f2dad21d8838faaf736b2b94ec57ee9&w=740"
+  },
+  {
+    "id": 9,
+    "name": "Blockchain Basics",
+    "title": "Getting Started with Blockchain",
+    "price": 50,
+    "category": "technology",
+    "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1716978938~exp=1716982538~hmac=58f9900efe30dfb21a2e11904f56a1a87f2dad21d8838faaf736b2b94ec57ee9&w=740"
+  },
+  {
+    "id": 10,
+    "name": "UI/UX Design",
+    "title": "Principles of UI/UX Design",
+    "price": 0,
+    "category": "free",
+    "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1716978938~exp=1716982538~hmac=58f9900efe30dfb21a2e11904f56a1a87f2dad21d8838faaf736b2b94ec57ee9&w=740"
+  }
+]
